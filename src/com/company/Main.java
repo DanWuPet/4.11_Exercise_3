@@ -26,4 +26,7 @@ public class Main {
 }
 
 //1. baffle. Output (No, I wug)
-//2. No, I wug. You wugga wug.I wug.
+/*2. No, I wug.
+     You wugga wug.
+     I wug.
+ */
